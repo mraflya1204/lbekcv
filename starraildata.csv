@@ -1,4 +1,8 @@
 character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,base_SPD,max_Energy
+1001,March 7th,4,Herta Space Station,Ice,The Preservation,1058,512,573,101,120
+1002,Dan Heng,4,Herta Space Station,Wind,The Hunt,882,547,397,110,100
+1003,Himeko,5,Herta Space Station,Fire,The Erudition,1048,757,437,96,120
+1004,Welt,5,Herta Space Station,Imaginary,The Nihility,1125,621,509,102,120
 8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
 8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
 8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
