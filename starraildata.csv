@@ -41,7 +41,7 @@ character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,
 1221,Yunli,5,W2,Physical,The Destruction,1358,679,461,94,240
 1222,Lingsha,5,W2,Fire,The Abundance,1358,679,437,98,110
 1223,Moze,4,W2,Lightning,The Hunt,811,600,353,111,120
-1224,March 7th,W2,Imaginary,The Hunt,1058,564,441,102,110
+1224,March 7th,4,W2,Imaginary,The Hunt,1058,564,441,102,110
 8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
 8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
 8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
