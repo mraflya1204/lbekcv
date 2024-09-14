@@ -29,7 +29,7 @@ character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,
 1207,Yukong,4,W2,Imaginary,The Harmony,917,600,375,107,130
 1208,Fu Xuan,5,W2,Quantum,The Preservation,1475,466,606,100,135
 1209,Yanqing,5,W2,Ice,The Hunt,893,679,412,109,140
-1210,Guinaifen,4,W2,Fire,The Nihility882,582,441,106,120
+1210,Guinaifen,4,W2,Fire,The Nihility,882,582,441,106,120
 1211,Bailu,5,W2,Lightning,The Abundance,1319,563,485,98,100
 1212,Jingliu,5,W2,Ice,The Destruction,1463,679,485,96,140
 1213,Dan Heng Imbibitor Lunae,5,W2,Imaginary,The Destruction,1242,699,364,102,140
