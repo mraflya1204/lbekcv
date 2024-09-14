@@ -42,6 +42,20 @@ character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,
 1222,Lingsha,5,W2,Fire,The Abundance,1358,679,437,98,110
 1223,Moze,4,W2,Lightning,The Hunt,811,600,353,111,120
 1224,March 7th,4,W2,Imaginary,The Hunt,1058,564,441,102,110
+1301,Gallagher,4,W3,Fire,The Abundance,1305,529,441,98,110
+1302,Argenti,5,W3,Physical,The Erudition,1048,737,364,103,180
+1303,Ruan Mei,5,W3,Ice,The Harmony,1087,660,485,104,130
+1304,Aventurine,5,W3,Imaginary,The Preservation,1203,446,655,106,110
+1305,Dr. Ratio,5,W3,Imaginary,The Hunt,1048,776,461,103,140
+1306,Sparkle,5,W3,Quantum,The Harmony,1397,524,485,101,110
+1307,Black Swan,5,W3,Wind,The Nihility,1087,660,485,102,120
+1308,Acheron,5,W3,Lightning,The Nihility,1125,699,437,101,9
+1309,Robin,5,W3,Physical,The Harmony,1281,640,485,102,160
+1310,Firefly,5,W3,Fire,The Destruction,815,524,776,104,240
+1312,Misha,4,W3,Ice,The Destruction,1270,600,397,96,100
+1314,Jade,5,W3,Quantum,The Erudition,1087,660,509,103,140
+1315,Boothill,5,W3,Physical,The Hunt,1203,621,437,107,115
+1317,Rappa,5,W3,Imaginary,The Erudition,1087,640,461,102,160
 8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
 8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
 8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
