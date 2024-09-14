@@ -1,25 +1,27 @@
 character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,base_SPD,max_Energy
-1001,March 7th,4,Herta Space Station,Ice,The Preservation,1058,512,573,101,120
-1002,Dan Heng,4,Herta Space Station,Wind,The Hunt,882,547,397,110,100
-1003,Himeko,5,Herta Space Station,Fire,The Erudition,1048,757,437,96,120
-1004,Welt,5,Herta Space Station,Imaginary,The Nihility,1125,621,509,102,120
-1005,Kafka,5,Herta Space Station,Lighting,The Nihility,1087,679,485,100,120
-1006,Silver Wolf,5,Herta Space Station,Quantum,The Nihility,1048,640,461,107,110
-1008,Arlan,4,Herta Space Station,Lightning,The Destruction,1200,600,331,102,110
-1009,Asta,4,Herta Space Station,Fire,The Harmony,1023,512,463,106,120
-1013,Herta,4,Herta Space Station,Ice,The Erudition,953,582,397,100,110
-1101,Bronya,5,Belobog,Wind,The Harmony,1242,582,534,99,120
-1102,Seele,5,Belobog,Quantum,The Hunt,931,640,364,115,120
-1103,Serval,4,Belobog,Lightning,The Erudition,917,653,375,104,100
-1104,Gepard,5,Belobog,Ice,The Preservation,1397,543,655,92,100
-1105,Natasha,4,Belobog,Physical,The Abundance,1164,476,507,98,90
-1106,Pela,4,Belobog,Ice,The Nihility,988,547,463,105,110
-1107,Clara,5,Belobog,Physical,The Destruction,1242,737,485,90,110
-1108,Sampo,4,Belobog,Wind,The Nihility,1023,617,397,102,120
-1109,Hook,4,Belobog,Fire,The Destruction,1341,617,353,94,120
-1110,Lynx,4,Belobog,Quantum,The Abundance,1058,494,551,100,100
-1111,Luka,4,Belobog,Physical,The Nihility,917,582,485,103,130
-1112,Topaz & Numby,5,Belobog,Fire,The Hunt,931,621,412,110,130
+1001,March 7th,4,W0,Ice,The Preservation,1058,512,573,101,120
+1002,Dan Heng,4,W0,Wind,The Hunt,882,547,397,110,100
+1003,Himeko,5,W0,Fire,The Erudition,1048,757,437,96,120
+1004,Welt,5,W0,Imaginary,The Nihility,1125,621,509,102,120
+1005,Kafka,5,W0,Lighting,The Nihility,1087,679,485,100,120
+1006,Silver Wolf,5,W0,Quantum,The Nihility,1048,640,461,107,110
+1008,Arlan,4,W0,Lightning,The Destruction,1200,600,331,102,110
+1009,Asta,4,W0,Fire,The Harmony,1023,512,463,106,120
+1013,Herta,4,W0,Ice,The Erudition,953,582,397,100,110
+1101,Bronya,5,W1,Wind,The Harmony,1242,582,534,99,120
+1102,Seele,5,W1,Quantum,The Hunt,931,640,364,115,120
+1103,Serval,4,W1,Lightning,The Erudition,917,653,375,104,100
+1104,Gepard,5,W1,Ice,The Preservation,1397,543,655,92,100
+1105,Natasha,4,W1,Physical,The Abundance,1164,476,507,98,90
+1106,Pela,4,W1,Ice,The Nihility,988,547,463,105,110
+1107,Clara,5,W1,Physical,The Destruction,1242,737,485,90,110
+1108,Sampo,4,W1,Wind,The Nihility,1023,617,397,102,120
+1109,Hook,4,W1,Fire,The Destruction,1341,617,353,94,120
+1110,Lynx,4,W1,Quantum,The Abundance,1058,494,551,100,100
+1111,Luka,4,W1,Physical,The Nihility,917,582,485,103,130
+1112,Topaz & Numby,5,W1,Fire,The Hunt,931,621,412,110,130
+1201,Qingque,4,W2,Quantum,The Erudition,1023,653,441,98,140
+1202,Tingyun,4,W2,Lightning,The Harmony,847,529,397,112,130
 8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
 8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
 8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
