@@ -1,2 +1,4 @@
 character_id,character_name,rarity,world,element,path,base_HP,base_ATK,base_DEF,base_SPD,max_Energy
-8001,Trailblazer,5,Unknown,Physical,the Destruction,1203,621,461,100,120
+8001,Trailblazer,5,Unknown,Physical,The Destruction,1203,621,461,100,120
+8003,Trailblazer,5,Unknown,Fire,The Preservation,1242,602,606,95,120
+8005,Trailblazer,5,Unknown,Imaginary,The Harmony,1087,446,679,105,140
